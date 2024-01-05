@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/favorite_location" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
